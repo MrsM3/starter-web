@@ -16,6 +16,8 @@ This is a simple web project, deplyment can be on a web server or even local fil
 
 ## How To Contribute
 
+I am adding some text to this document so that I can merge changes. Whoop!
+
 
 ###Copyright
 
