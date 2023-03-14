@@ -1,6 +1,7 @@
 #  Starter Web Project
 
 This is a simple website project for showing how to use Git ad Github together. Adding a line for rebasing. I am expanding the paragraph for further example. 
+I am adding a sentence to the stashing example. 
 
 ## Introduction
 
